@@ -3,9 +3,6 @@ from math import *
 
 S = open('day3/input.txt').read()
 
-def mul(x,y):
-  return x*y
-
 ans2 = 0
 enabled = True
 
