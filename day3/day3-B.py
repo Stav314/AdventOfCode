@@ -1,5 +1,4 @@
 import re
-from math import *
 
 S = open('day3/input.txt').read()
 
